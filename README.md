@@ -1,8 +1,8 @@
-# testvalues-examples
+# TestValues Examples
 
-Practical examples for the [testvalues](https://github.com/BjornvdLaan/testvalues) library, a Java utility that generates randomised test values on every run to make your tests more robust.
+Practical examples for the [TestValues](https://github.com/BjornvdLaan/testvalues) library, a Java utility that generates randomised test values on every run to make your tests more robust.
 
-The examples use an e-commerce domain (products, customers, orders) with real business logic, so you can see how testvalues fits into realistic unit tests.
+The examples use an e-commerce domain (products, customers, orders) with real business logic, so you can see how TestValues fits into realistic unit tests.
 
 ## Prerequisites
 
