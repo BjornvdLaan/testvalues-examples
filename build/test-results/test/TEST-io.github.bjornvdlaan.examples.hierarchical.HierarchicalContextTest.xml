@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.036">
+  <properties/>
+  <testcase name="vipContext_inheritsOrderLines_fromOrderContext()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.005"/>
+  <testcase name="vipContext_customer_hasPremiumEmailDomain()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.005"/>
+  <testcase name="companyContext_doesNotKnowAboutOrderLines()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.002"/>
+  <testcase name="vipContext_product_usesCompanyLevelGenerator()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.003"/>
+  <testcase name="orderContext_knowsAboutOrderLines()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.002"/>
+  <testcase name="orderContext_inheritsProduct_fromCompanyContext()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.002"/>
+  <testcase name="vipContext_customer_hasAgeAtLeast30()" classname="io.github.bjornvdlaan.examples.hierarchical.HierarchicalContextTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.service.PricingServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.028">
+  <properties/>
+  <testcase name="calculateTotal_multipleLines_returnsSumOfLineTotals()" classname="io.github.bjornvdlaan.examples.service.PricingServiceTest" time="0.01"/>
+  <testcase name="applyVAT_withZeroRate_returnsOriginalAmount()" classname="io.github.bjornvdlaan.examples.service.PricingServiceTest" time="0.001"/>
+  <testcase name="calculateTotal_singleLine_returnsPriceTimesQuantity()" classname="io.github.bjornvdlaan.examples.service.PricingServiceTest" time="0.002"/>
+  <testcase name="applyVAT_with21Percent_returnsTotalIncludingVAT()" classname="io.github.bjornvdlaan.examples.service.PricingServiceTest" time="0.001"/>
+  <testcase name="applyVAT_withArbitraryRate_appliesCorrectly()" classname="io.github.bjornvdlaan.examples.service.PricingServiceTest" time="0.001"/>
+  <testcase name="calculateTotal_manyLines_returnsCorrectSum()" classname="io.github.bjornvdlaan.examples.service.PricingServiceTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

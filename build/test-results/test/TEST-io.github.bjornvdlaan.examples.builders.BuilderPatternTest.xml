@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.074">
+  <properties/>
+  <testcase name="buildWithLargeNumberOfLines_stressTest()" classname="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" time="0.022"/>
+  <testcase name="multipleBuilds_produceDifferentIds()" classname="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" time="0.002"/>
+  <testcase name="buildWithSpecificCustomer_usesProvidedCustomer()" classname="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" time="0.032"/>
+  <testcase name="defaultBuild_producesValidOrder()" classname="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" time="0.005"/>
+  <testcase name="buildWithSpecificStatus_usesProvidedStatus()" classname="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" time="0.002"/>
+  <testcase name="buildWithOverrides_otherFieldsStillRandom()" classname="io.github.bjornvdlaan.examples.builders.BuilderPatternTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

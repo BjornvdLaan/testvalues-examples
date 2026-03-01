@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.324">
+  <properties/>
+  <testcase name="anyPositiveInt_isGreaterThanZero()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.19"/>
+  <testcase name="anyBoolean_withProbabilityZero_alwaysFalse()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.003"/>
+  <testcase name="anyInt_returnsValue()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.018"/>
+  <testcase name="anyUuid_isWellFormed()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.008"/>
+  <testcase name="anyString_withLength_returnsExactLength()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.013"/>
+  <testcase name="anyOf_class_returnsNonNull()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <testcase name="anyLocalDate_returnsValidDate()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.003"/>
+  <testcase name="stringWith_prefixSuffix_isRespected()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <testcase name="anyOf_options_picksOneOfTheSupplied()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.002"/>
+  <testcase name="anyFutureLocalDate_isAfterOrEqualToToday()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.011"/>
+  <testcase name="anyBoolean_withProbabilityOne_alwaysTrue()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.002"/>
+  <testcase name="anyEmail_hasAtSignAndDot()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.009"/>
+  <testcase name="anyBoolean_returnsBoolean()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <testcase name="anyEnum_productCategory_returnsValidCategory()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.006"/>
+  <testcase name="anyDouble_inRange_isWithinBounds()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.006"/>
+  <testcase name="anyEnum_orderStatus_returnsValidStatus()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.002"/>
+  <testcase name="anyLong_returnsValue()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.003"/>
+  <testcase name="anyPastLocalDate_isBeforeOrEqualToToday()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <testcase name="anyPhoneNumber_matchesFormat()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.003"/>
+  <testcase name="anyString_returnsNonEmptyString()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <testcase name="anyNullableOf_withLowProbability_returnsValueMostOfTheTime()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.002"/>
+  <testcase name="anyNullableOf_withFullProbability_alwaysReturnsNull()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <testcase name="anyInt_inRange_isWithinBounds()" classname="io.github.bjornvdlaan.examples.basic.BasicValueGenerationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

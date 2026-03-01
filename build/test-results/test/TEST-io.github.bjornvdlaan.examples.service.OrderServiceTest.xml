@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.service.OrderServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.023">
+  <properties/>
+  <testcase name="cancelOrder_whenShipped_throwsIllegalState()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.003"/>
+  <testcase name="cancelOrder_whenDelivered_throwsIllegalState()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.002"/>
+  <testcase name="placeOrder_withUnderageCustomer_throwsIllegalArgument()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.003"/>
+  <testcase name="cancelOrder_whenConfirmed_returnsCancelledOrder()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.002"/>
+  <testcase name="placeOrder_withEmptyLines_throwsIllegalArgument()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.002"/>
+  <testcase name="placeOrder_withValidCustomerAndLines_returnsOrderWithPendingStatus()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.002"/>
+  <testcase name="cancelOrder_whenPending_returnsCancelledOrder()" classname="io.github.bjornvdlaan.examples.service.OrderServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.service.DiscountServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.018">
+  <properties/>
+  <testcase name="applyLoyaltyDiscount_withExactlyFiveOrders_returnsFivePercent()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.003"/>
+  <testcase name="applyLoyaltyDiscount_withFiveOrMoreOrders_returnsFivePercentDiscount()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.002"/>
+  <testcase name="applyLoyaltyDiscount_withZeroOrders_returnsZero()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.001"/>
+  <testcase name="applyBulkDiscount_whenTotalAboveThreshold_returnsTenPercentDiscount()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.001"/>
+  <testcase name="applyLoyaltyDiscount_withLessThanFiveOrders_returnsZero()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.001"/>
+  <testcase name="applyBulkDiscount_whenTotalExactlyAtThreshold_returnsZero()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.002"/>
+  <testcase name="applyBulkDiscount_whenTotalBelowThreshold_returnsZero()" classname="io.github.bjornvdlaan.examples.service.DiscountServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.bjornvdlaan.examples.custom.CustomContextTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-02-28T12:36:37" hostname="VROUWTJE" time="0.033">
+  <properties/>
+  <testcase name="orderLine_quantityIsWithinRange()" classname="io.github.bjornvdlaan.examples.custom.CustomContextTest" time="0.009"/>
+  <testcase name="customContext_stillSupportsBuiltInTypes()" classname="io.github.bjornvdlaan.examples.custom.CustomContextTest" time="0.001"/>
+  <testcase name="product_priceIsWithinDomainRange()" classname="io.github.bjornvdlaan.examples.custom.CustomContextTest" time="0.004"/>
+  <testcase name="overriddenStringGenerator_producesUUIDs()" classname="io.github.bjornvdlaan.examples.custom.CustomContextTest" time="0.004"/>
+  <testcase name="customer_ageIsAlwaysAdult()" classname="io.github.bjornvdlaan.examples.custom.CustomContextTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
